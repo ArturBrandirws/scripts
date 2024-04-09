@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # source the functions file
-source ../scripts/users.sh
+source ~/scripts/users.sh
 
 create_directories() {
     echo "Creating directories"
